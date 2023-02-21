@@ -6,3 +6,10 @@ You can find more information by visiting the [Codespace](https://codespaceacade
 ### Getting Started
 
 These instructions will give you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on deploying the project on a live system.
+
+## Prerequisites
+
+Requirements for the software and other tools to build, test and push:
+
+- [Example 1](https://www.markdownguide.org/basic-syntax/#unordered-lists)
+- [Example 2](https://www.markdownguide.org/basic-syntax/#unordered-lists)
