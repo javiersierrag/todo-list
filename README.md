@@ -1,7 +1,7 @@
  # Project Title
 
 One Paragraph of the project description
-You can find more information by visiting the [Codespace](https://codespaceacademy.com/?utm_source=google&utm_medium=paidsearch&utm_campaign=brand&utm_content=596335623775&utm_term=spain&gclid=CjwKCAiA9NGfBhBvEiwAq5vSy5ODUsF947U1kJR6Y2JTt2PqY5stmvEOzCbwrEeQMCBCXBu1HkW9GRoCHpcQAvD_BwE) repository.
+You can find more information by visiting the [Codespace](https://codespaceacademy.com) repository.
 
 ### Getting Started
 
@@ -36,6 +36,8 @@ Add additional notes to deploy this on a live system
 - **Programmer A** - *Provided README Template* - [Profile A](https://github.com/javiersierrag)
 - **Programmer A** - *Provided README Template* - [Profile B](https://github.com/Mariaserrano98)
 
-See also the list of 
-[contributors](https://github.com/cod3spac3Academy)
-who participated in this project.
+See also the list of [contributors](https://github.com/cod3spac3Academy) who participated in this project.
+
+### License
+This project is licensed under the [CCo1.0 Universal](https://github.com/javiersierrag/todo-list/blob/main/LICENSE)
+Creative Commons License -see the [LICENSE.md](https://github.com/javiersierrag/todo-list/blob/main/LICENSE) file for details.
