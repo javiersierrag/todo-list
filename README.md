@@ -30,3 +30,12 @@ End with and example of getting some data out of the system or using it for a li
 ### Deployment
 
 Add additional notes to deploy this on a live system
+
+### Authors
+
+- **Programmer A** - *Provided README Template* - [Profile A](https://github.com/javiersierrag)
+- **Programmer A** - *Provided README Template* - [Profile B](https://github.com/Mariaserrano98)
+
+See also the list of 
+[contributors](https://github.com/cod3spac3Academy)
+who participated in this project.
