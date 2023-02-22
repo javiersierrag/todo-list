@@ -31,6 +31,11 @@ End with and example of getting some data out of the system or using it for a li
 
 Add additional notes to deploy this on a live system
 
+### Built With
+
+- [Contributor Covenant](https://code.visualstudio.com/) - Used for the Code of Conduct
+- [Creative Commons](https://github.com/) - Used to choose the license
+
 ### Authors
 
 - **Programmer A** - *Provided README Template* - [Profile A](https://github.com/javiersierrag)
